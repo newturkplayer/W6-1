@@ -1,7 +1,7 @@
 // This simple program shows call-by value type function
 #include<stdio.h>
 
-define PI 3.14
+#define PI 3.14
 
 // Function prototypes
 double surf(double); 
